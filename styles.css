@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 20px;
+    background-color: #f5f5f5;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 26px;
+    color: #44CCAC;
+}
+
+h2 {
+    font-size: 21px;
+    color: #6060DD;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+header,
+main,
+footer {
+    margin-bottom: 20px;
+    padding: 15px;
+}
+
+img {
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 15px;
+}
